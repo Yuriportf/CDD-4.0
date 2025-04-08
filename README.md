@@ -32,6 +32,8 @@ Este repositório contém códigos, atividades e projetos desenvolvidos com:
 ## 📁 Estrutura do Repositório
 
 Abaixo está a organização das pastas deste repositório:
+
+
 /
 ├── MaterialAulasDEV/
 ├── MaterialAulasINSERÇAO/
