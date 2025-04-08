@@ -1,0 +1,10 @@
+numero1=float(input("Digite o primeiro número: "))
+numero2=float(input("Digite o segundo número: "))
+soma= (numero1+numero2)
+subrtacao= (numero1-numero2)
+mutiplica= (numero1*numero2)
+divisao= (numero1/numero2)
+print(f"{numero1} + {numero2} = {soma}\n"
+f"{numero1} - {numero2} = {subrtacao}\n"
+f"{numero1} * {numero2} = {mutiplica}\n"
+f"{numero1} / {numero2} = {divisao}\n")
