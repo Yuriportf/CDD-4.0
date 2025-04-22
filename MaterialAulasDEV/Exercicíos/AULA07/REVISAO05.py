@@ -1,0 +1,5 @@
+nome=input("Digite seu nome: ")
+salarioMIN = float(input("Digite o salário minímo atual: "))
+salário = float(input("Digite o seu salário atual :"))
+calculo = (salário / salarioMIN)
+print(f"O {nome} recebe {calculo} minimos por mês")
